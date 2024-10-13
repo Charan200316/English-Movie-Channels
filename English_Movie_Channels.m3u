@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:0,& Flix FHD
+http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=15760&deviceMac=00:1A:79:73:A8:3B
+#EXTINF:0,&prive HD
+http://tv.cloudcdn.me:80/live.ts?channelId=170&uid=15760&deviceMac=00:1A:79:73:A8:3B
+#EXTINF:0,Movies Now HD
+http://tv.cloudcdn.me:80/live.ts?channelId=162&uid=15760&deviceMac=00:1A:79:73:A8:3B
+#EXTINF:0,Sony PIX HD
+http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=15760&deviceMac=00:1A:79:73:A8:3B
+#EXTINF:0,Star Movies HD
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=15760&deviceMac=00:1A:79:73:A8:3B
+#EXTINF:0,Star Movies Select HD
+http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=15760&deviceMac=00:1A:79:73:A8:3B
+#EXTINF:0,HBO HD
+http://tv.cloudcdn.me:80/live.ts?channelId=49858&uid=15760&deviceMac=00:1A:79:73:A8:3B
